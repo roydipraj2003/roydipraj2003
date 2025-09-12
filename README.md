@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roydipraj2003&label=Profile%20views&color=0e75b6&style=flat" alt="roydipraj2003" /> </p>
 
-- 🔭 I’m currently learning *AI and Machine Learning algorithms for building smart applications*.
+- 🔭 I’m interested in **Data Science, Machine Learning, Artificial Intelligence, and Data Analysis**
 
-- 🌱 I’m currently learning **Data Science with AI**
-  
-- 🔭 I’m interested in Data Science, Machine Learning, Artificial Intelligence, and Data Analysis.
-🌱 I’m currently learning AI and Machine Learning algorithms for building smart applications.
-💼 I’ve completed various projects such as QuickAnswer pro, FeedBack Analysis, and Netflix PowerBi dashboard.
-🤝 I’m looking to collaborate on Data Science and AI projects. Feel free to connect if you have interesting ideas or need help with data analysis or model building.
-💬 Ask me about Python, Numpy, Pandas, Matplotlib, Seaborn, Streamlit, scikit-learn, and Machine Learning.
+- 🌱 I’m currently learning **AI and Machine Learning algorithms for building smart applications**
+
+- 💼 I’ve completed various projects such as **GenAI Multi-Agent,LLM Data Analysis Ai Web Tool,AI pharmaceutical chatbot**
+
+- 🤝 I’m looking to collaborate on **Data Science and AI projects. Feel free to connect if you have interesting ideas or need help with data analysis or model building**
+
+- 💬 Ask me about **RAG,CrewAI,n8n,GenAI,Python, Numpy, Pandas, Matplotlib, Seaborn, Streamlit, scikit-learn, Machine Learning, NLP and Deep Learning**
 
 - 📫 How to reach me **roydipraj0@gmail.com**
 
